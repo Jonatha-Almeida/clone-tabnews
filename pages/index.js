@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Text 1</h1>
+    return <h1>clone-tabnews</h1>
 }
 
 
